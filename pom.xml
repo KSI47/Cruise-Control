@@ -2,7 +2,7 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.dassault_systemes</groupId>
+	<groupId>com.kafkacc</groupId>
 	<packaging>jar</packaging>
 	<artifactId>kafkarebalance</artifactId>
 	<version>1.0.8</version>
@@ -14,7 +14,7 @@
 		<maven.compiler.source>${java.version}</maven.compiler.source>
 		<maven.compiler.target>${java.version}</maven.compiler.target>
 		<maven-shade-plugin.version>3.1.0</maven-shade-plugin.version>
-		<main.class>com.dassault_systemes.kafkarebalance.KafkaRebalanceMain</main.class>
+		<main.class>com.kafkacc.kafkarebalance.KafkaRebalanceMain</main.class>
 		<kafka.version>2.4.1</kafka.version>
 		<slf4j.version>1.7.7</slf4j.version>
 		<logback.version>1.2.3</logback.version>
