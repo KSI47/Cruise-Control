@@ -1,0 +1,6 @@
+com\dassault_systemes\kafkarebalance\Rebalancer.class
+com\dassault_systemes\kafkarebalance\ZKScheduler.class
+com\dassault_systemes\kafkarebalance\ZKConnector$1.class
+com\dassault_systemes\kafkarebalance\ZKConnector.class
+com\dassault_systemes\kafkarebalance\KafkaRebalanceMain.class
+com\dassault_systemes\kafkarebalance\HttpRestAPIRequest.class
